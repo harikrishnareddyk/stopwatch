@@ -1,0 +1,7 @@
+.container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/stopwatch-lg-bg.png');
+  background-size: cover;
+  width: 1000px;
+  height: 800px;
+  padding: 30px;
+}
